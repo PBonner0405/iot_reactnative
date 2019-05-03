@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218649960224",
+    "firebase_url": "https://flapsentry-dd653.firebaseio.com",
+    "project_id": "flapsentry-dd653",
+    "storage_bucket": "flapsentry-dd653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218649960224:android:f4efa23ae0deac49",
+        "android_client_info": {
+          "package_name": "com.flapsentry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218649960224-7rruh7s04r8rkh2t1r6c1072qbg450am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0AedRAuqpEXZ7GoyPoIhn8fc6fpqG6bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218649960224-7rruh7s04r8rkh2t1r6c1072qbg450am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
